@@ -1,8 +1,4 @@
-import streamlit as st
-
-st.title("🎈 My new app")
-st.write(
-  import tkinter as tk
+import tkinter as tk
 import tkinter.font as font
 import math
 
@@ -151,4 +147,3 @@ result_text.config(yscrollcommand=scrollbar.set)
 
 # Run the application
 root.mainloop()
-)
